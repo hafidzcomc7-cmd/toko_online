@@ -1,8 +1,9 @@
 {
-  "name": "Ubay Snack Official Store",
+  "id": "/ubay-snack-store",
+  "name": "Official Store",
   "short_name": "Ubay Snack",
-  "description": "Toko Online & Inventaris Ubay Snack",
-  "start_url": "./",
+  "description": "Toko Online & Inventaris",
+  "start_url": "index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
